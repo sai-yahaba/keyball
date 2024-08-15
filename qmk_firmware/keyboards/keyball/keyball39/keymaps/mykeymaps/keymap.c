@@ -72,3 +72,8 @@ void oledkit_render_info_user(void) {
     keyball_oled_render_layerinfo();
 }
 #endif
+
+/*my settings*/
+
+/*the number of layers*/
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6

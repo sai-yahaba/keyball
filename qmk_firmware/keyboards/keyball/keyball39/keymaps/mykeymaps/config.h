@@ -35,6 +35,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define TAP_CODE_DELAY 5
 
+
+/*my settings*/
+
 #define POINTING_DEVICE_AUTO_MOUSE_ENABLE
 #define AUTO_MOUSE_DEFAULT_LAYER 1
 #define AUTO_MOUSE_LAYER_KEEP_TIME 30000
+
+/*scroll speed*/
+#define KEYBALL_SCROLL_DIV_DEFAULT 7
+/*mouse pointer speed*/
+#define KEYBALL_CPI_DEFAULT 700
