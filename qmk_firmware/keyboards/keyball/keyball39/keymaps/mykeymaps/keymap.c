@@ -90,4 +90,6 @@ void oledkit_render_info_user(void) {
 /*my settings*/
 
 /*the number of layers*/
+/*
 #define DYNAMIC_KEYMAP_LAYER_COUNT 4
+*/
