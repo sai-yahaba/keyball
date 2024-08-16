@@ -46,5 +46,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define KEYBALL_SCROLL_DIV_DEFAULT 7
 /*mouse pointer speed*/
 #define KEYBALL_CPI_DEFAULT 700
-/*the number of layers*/
-#define DYNAMIC_KEYMAP_LAYER_COUNT 6
