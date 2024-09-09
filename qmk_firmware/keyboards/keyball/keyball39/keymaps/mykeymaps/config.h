@@ -48,3 +48,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define KEYBALL_CPI_DEFAULT 700
 // layer count increasing
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
+#define PERMISSIVE_HOLD
